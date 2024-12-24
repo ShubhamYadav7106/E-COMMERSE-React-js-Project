@@ -5,10 +5,6 @@ import Data from "./Data";
 import Cart from "./cart";
 import './cartStyle.css'
 
-git remote add origin https://github.com/ShubhamYadav7106/E-COMMERSE-React-js-Project.git
-git branch -M main
-git push -u origin mainhttps://github.com/ShubhamYadav7106/E-COMMERSE-React-js-Project.git
-
 const ShowPage=()=> {
 
   const[myItems,setMyItems]=useState([])
